@@ -12,9 +12,6 @@ Email Me 👉 ✉️ **maheshgaikwad1292005@gmail.com** For Collaboration/Projec
 - 😄 **Pronouns:** Mahesh Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahesh-gaikwad507&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahesh_gaikwad_._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheshgaikwad1292005@gmail.com) 
 
